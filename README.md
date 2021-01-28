@@ -1,4 +1,6 @@
-These python files constitute a data-gathering and back-testing system for an algorithmic stock trading simulation. "Table of Contents" for files:
+These python files constitute a data-gathering and back-testing system for an algorithmic stock trading simulation.  Currently there is no driver for the program - testing is done from the terminal or an auxiliary file.
+
+"Table of Contents" for files:
 
 get_data.py: Contains functions to gather price data, save to storage, and load to memory.
 
